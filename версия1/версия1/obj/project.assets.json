@@ -75,11 +75,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\версия1\\версия1\\версия1.csproj",
+      "projectUniqueName": "C:\\алиса\\2 курс\\версия1\\версия1\\версия1.csproj",
       "projectName": "версия1",
-      "projectPath": "C:\\Users\\user\\source\\repos\\версия1\\версия1\\версия1.csproj",
+      "projectPath": "C:\\алиса\\2 курс\\версия1\\версия1\\версия1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\версия1\\версия1\\obj\\",
+      "outputPath": "C:\\алиса\\2 курс\\версия1\\версия1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
